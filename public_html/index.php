@@ -7,4 +7,4 @@ If you need ZppixBot in your channel, please contact Zppix or <a href="https://m
 <p> For more information please check out <a href="https://github.com/Pix1234/ZppixBot-Source/releases/tag/v2">the release tag</a> !!!</br>
 
 <b>Previous releases</b>:</br>
-<a href"https://github.com/Pix1234/ZppixBot-Source/releases/tag/v1">v1 (30 July 2017)</a></br>
+<a href="https://github.com/Pix1234/ZppixBot-Source/releases/tag/v1">v1 (30 July 2017)</a></br>
