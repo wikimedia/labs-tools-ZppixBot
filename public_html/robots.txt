@@ -1,4 +1,2 @@
 User-agent: *
-Disallow: /css/
-Disallow: /wiki/Special:
-Sitemap: https://zppixbot.toolforge.org/sitemap.xml
+Disallow: /
